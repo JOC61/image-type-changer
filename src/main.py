@@ -1,4 +1,4 @@
-# Import the stuff
+# Import the modules
 import tkinter as tk, os
 from PIL import Image
 
